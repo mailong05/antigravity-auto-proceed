@@ -1,0 +1,11 @@
+# Temporary & Backup files
+*.bak
+*.bak_*
+*.log
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

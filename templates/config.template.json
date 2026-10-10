@@ -1,0 +1,7 @@
+{
+  "userSettings": {
+    "autoExecutionPolicy": "CASCADE_COMMANDS_AUTO_EXECUTION_EAGER",
+    "artifactReviewMode": "ARTIFACT_REVIEW_MODE_TURBO",
+    "enableTerminalSandbox": false
+  }
+}
